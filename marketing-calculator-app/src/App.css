@@ -1,0 +1,57 @@
+
+nav {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  width: 5%;
+  margin-top: 5%;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+form {
+  margin: 5%;
+}
+
+.display {
+  width: 100%;
+}
+
+.values {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.values div {
+  padding: 1%;
+  border: 1px solid black;
+  border-radius: 150px;
+  background-color: lightblue;
+}
+
+.calculations {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5%;
+}
+
+.calcs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.spacing {
+  margin-top: 5%;
+}
+
